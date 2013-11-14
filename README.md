@@ -1,7 +1,7 @@
 Clicking Bad
 ============
 
-Official Clicking Bad Repository
+YeomansIII Clicking Bad Repository
 
 About
 =====
@@ -24,7 +24,7 @@ Code
 
 ### Style
 
-* 4 spaces indent, no tabs
+* 4 spaces indent, no tabs
 * Comments should appear on their own line or lines
     * This is due to the comment-stripper regex
 * No Windows carriage returns (`\r\n`)
